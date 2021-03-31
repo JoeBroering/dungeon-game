@@ -1,0 +1,12 @@
+/Users/aryanshrestha/Documents/Class/407/P3/DungenGame/DungenGame/bin/Release/netcoreapp3.1/DungenGame.deps.json
+/Users/aryanshrestha/Documents/Class/407/P3/DungenGame/DungenGame/bin/Release/netcoreapp3.1/DungenGame.runtimeconfig.json
+/Users/aryanshrestha/Documents/Class/407/P3/DungenGame/DungenGame/bin/Release/netcoreapp3.1/DungenGame.runtimeconfig.dev.json
+/Users/aryanshrestha/Documents/Class/407/P3/DungenGame/DungenGame/bin/Release/netcoreapp3.1/DungenGame.dll
+/Users/aryanshrestha/Documents/Class/407/P3/DungenGame/DungenGame/bin/Release/netcoreapp3.1/DungenGame.pdb
+/Users/aryanshrestha/Documents/Class/407/P3/DungenGame/DungenGame/obj/Release/netcoreapp3.1/DungenGame.csprojAssemblyReference.cache
+/Users/aryanshrestha/Documents/Class/407/P3/DungenGame/DungenGame/obj/Release/netcoreapp3.1/DungenGame.AssemblyInfoInputs.cache
+/Users/aryanshrestha/Documents/Class/407/P3/DungenGame/DungenGame/obj/Release/netcoreapp3.1/DungenGame.AssemblyInfo.cs
+/Users/aryanshrestha/Documents/Class/407/P3/DungenGame/DungenGame/obj/Release/netcoreapp3.1/DungenGame.csproj.CoreCompileInputs.cache
+/Users/aryanshrestha/Documents/Class/407/P3/DungenGame/DungenGame/obj/Release/netcoreapp3.1/DungenGame.dll
+/Users/aryanshrestha/Documents/Class/407/P3/DungenGame/DungenGame/obj/Release/netcoreapp3.1/DungenGame.pdb
+/Users/aryanshrestha/Documents/Class/407/P3/DungenGame/DungenGame/obj/Release/netcoreapp3.1/DungenGame.genruntimeconfig.cache
